@@ -1,2 +1,2 @@
 # OpenModelica-DXHeatingCoil-Issue
-Dx Heating Coil not doing heating in Openmodelica
+Building library Dx Heating Coil not doing heating in my model.
